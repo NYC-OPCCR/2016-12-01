@@ -11,3 +11,5 @@ devtools::install_github("mskcc/facets", build_vignettes = TRUE)
 ```
 
 Then run the example script `facets_example.R`
+
+![FACETS plot](facets.png "Example FACETS output")
